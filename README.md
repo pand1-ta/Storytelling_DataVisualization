@@ -3,7 +3,7 @@
 Dashboard narrativo desarrollado para el curso **Data Visualization — 8vo ciclo**.
 Responde la pregunta: *¿Qué países de América Latina avanzaron más en energía limpia sin sacrificar crecimiento económico?*
 
-> 🔗 **Dashboard en vivo:** `[pegar URL de Streamlit Cloud aquí]`
+> 🔗 **Dashboard en vivo:** `https://storytellingdatavisualization-xnhxdpnyqhrfgdk3ichsfy.streamlit.app/`
 
 ---
 
